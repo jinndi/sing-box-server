@@ -25,7 +25,7 @@ The fastest way to get a connection link to the sing-box server
 - Checking and updating the sing-box core when entering the management script
 - Optimized network settings via sysctl
 
-## Supported protocols
+## 🌐 Supported protocols
 
 Without SSL configuration:
 
@@ -49,7 +49,7 @@ Without SSL configuration:
 - Curl installed
 - You need to have a domain name or a public IP address
 
-## 🐳 Installation
+## 💾 Installation
 
 Install it with the following command:
 
