@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# https://github.com/jinndi/sing-box-server-install
+# https://github.com/jinndi/sing-box-server
 #
 # Copyright (c) 2025 Jinndi <alncores@gmail.ru>
 #
