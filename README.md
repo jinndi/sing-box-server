@@ -34,7 +34,7 @@ Without SSL configuration:
 - VLESS-TCP-XTLS-Vision-REALITY
 - WireGuard
 
-+ If SSL is configured:
+If SSL is configured + :
 
 - VLESS-TCP-XTLS-Vision
 - VLESS-TCP-TLS-Multiplex
