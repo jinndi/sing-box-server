@@ -9,9 +9,9 @@ The fastest way to get a connection link to the sing-box server
 </h3>
 
 <p align="center">
-<img alt="Release" src="https://img.shields.io/github/v/release/jinndi/sing-box-server-install">
+<img alt="Release" src="https://img.shields.io/github/v/release/jinndi/sing-box-server">
 <img alt="Code size in bytes" src="https://img.shields.io/github/languages/code-size/jinndi/sing-box-server">
-<img alt="License" src="https://img.shields.io/github/license/jinndi/sing-box-server-install">
+<img alt="License" src="https://img.shields.io/github/license/jinndi/sing-box-server">
 <img alt="Visitor" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fjinndi%2Fsing-box-server&label=visitor&icon=eye&color=%230d6efd&message=&style=flat&tz=UTC">
 </p>
 
