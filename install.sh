@@ -50,7 +50,7 @@ fi
 
 ## Version sing-box
 # https://github.com/SagerNet/sing-box/releases
-CUR_VERSION="1.12.13"
+CUR_VERSION="1.12.14"
 NEW_VERSION=""
 
 if [[ -f "$PATH_BIN" ]]; then
