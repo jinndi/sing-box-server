@@ -303,7 +303,7 @@ input_masking_domain(){
   echomsg "Enter the masking domain or select from the suggested options:" 1
   menu+=" $(green "1.") github.com\n"
   menu+=" $(green "2.") microsoft.com\n"
-  menu+=" $(green "3.") yahoo.com.com\n"
+  menu+=" $(green "3.") yahoo.com\n"
   menu+=" $(green "4.") speed.cloudflare.com\n"
   menu+=" $(green "5.") amd.com"
   echo -e "$menu"
@@ -315,7 +315,7 @@ input_masking_domain(){
   case "$option" in
     1) mask_domain="github.com";;
     2) mask_domain="microsoft.com";;
-    3) mask_domain="yahoo.com.com";;
+    3) mask_domain="yahoo.com";;
     4) mask_domain="speed.cloudflare.com";;
     5) mask_domain="amd.com";;
     *) mask_domain="$option";;
